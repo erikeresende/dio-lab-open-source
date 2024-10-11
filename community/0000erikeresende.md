@@ -18,6 +18,19 @@
 <br />
 <br />
 
+<div width="100%" align="center" justify="center">  
+  <a href="https://github.com/erikeresende">
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=erikeresende&theme=github_dark" /> 
+  <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erikeresende&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
+  </a>
+</div>
+
+<div align="center">
+<img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=01samuelgomx&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">
+</div>
+
+<div>
+  
 ### About 
 <i>
 <br />
@@ -56,18 +69,7 @@
   <a href="https://www.linkedin.com/in/erikeresende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div width="100%" align="center" justify="center">  
-  <a href="https://github.com/erikeresende">
-  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=erikeresende&theme=github_dark" /> 
-  <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erikeresende&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
-  </a>
-</div>
 
-<div align="center">
-<img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=01samuelgomx&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">
-</div>
-
-<div>
 
 <br />
 
