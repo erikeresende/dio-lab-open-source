@@ -47,10 +47,27 @@
 > Sou dedicado ao aprendizado contínuo, focado em entregar soluções robustas e intuitivas, e acredito no poder da colaboração para criar projetos incríveis. Se você busca um profissional comprometido, criativo, e preparado para encarar novos desafios, estou pronto para fazer parte de algo inovador!
 
 </i>
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00raoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=00raoni&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</div>
+
+
+<div> 
+  <a href="https://www.instagram.com/erike.resende/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erike2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erikeresende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div width="100%" align="center" justify="center">  
+  <a href="https://github.com/erikeresende">
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=01erikeresende&theme=github_dark" /> 
+  <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=01erikeresende&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
+  </a>
+</div>
+
+<div align="center">
+<img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=01samuelgomx&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">
+</div>
+
+<div>
 
 <br />
 
