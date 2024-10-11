@@ -1,6 +1,6 @@
 <img align="center" padding="0" alt="Imagem de capa contendo programação" src="https://www.mundoconectado.com.br/wp-content/uploads/2022/05/capa-programacao.jpg">
 <br >
-<img align="left" padding="20px" alt="Foto de perfil de Érike Resende" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHUFkRIQXTxGN1hxn25GNRc9YPoMYnIJZPg&s">
+<img align="left"  alt="Foto de perfil de Érike Resende" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHUFkRIQXTxGN1hxn25GNRc9YPoMYnIJZPg&s">
 <h1> 
   <a href="https://www.linkedin.com/in/erikeresende/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Érike Augusto de Sousa Resende</span>
